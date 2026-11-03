@@ -1,1 +1,3 @@
-# Sy_Ca-ada_FINAL_PROJECT_OOP
+PAIRS: Sy, Kirsty and Canada, Wendy
+
+DAY 1 : Initializing projects, folders, and UML Diagram
